@@ -1,7 +1,7 @@
 # ----------------------------- IN ENGLISH -----------------------------
 ## Documents submitted to the Coordination of the Postgraduate in Computer Science at the Federal University of Campina Grande. These documents are part of the necessary requirements to obtain the PhD's degree in Computer Science.
 
-**Dissertation Title:** n Educational Process for Teaching Programming with Educational Robotics in High School
+**Thesis Title:** An Educational Process for Teaching Programming with Educational Robotics in High School
 
 **Author:** Isabelle Maria Lima de Souza
 
@@ -15,3 +15,22 @@
 
 
 ### Ethics Committee Documents
+
+
+# ----------------------------- EM PORTUGUÊS -----------------------------
+## Documentos do trabalho de Dissertação submetida à Coordenação do Curso de Pós-Graduação em Ciência da Computação da Universidade Federal de Campina Grande - Campus I como parte dos requisitos necessários para obtenção do grau de Doutora em Ciência da Computação
+
+**Tese:** An Educational Process for Teaching Programming with Educational Robotics in High School
+
+**Aluna:** Isabelle Maria Lima de Souza
+
+**Orientadora:** Wilkerson de Lucena Andrade
+
+**Co-Orientador:** Lívia Maria Rodrigues Sampaio Campos 
+
+**Área de Concentração:** Ciência da Computação
+
+**Linha de Pesquisa:** Educação em Ciência da Computação
+
+
+### Documentos do Comitê de Ética
