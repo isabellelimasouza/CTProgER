@@ -63,3 +63,13 @@
 
 [Roteiros de Aula - Material do Aluno ](https://github.com/isabellelimasouza/CTProgER/blob/main/Roteiros%20de%20Aulas_Finais.pdf)
 
+### Data Collection Tools
+
+[Teste de Pensamento Computacional](https://github.com/isabellelimasouza/CTProgER/blob/main/Question%C3%A1rio%202%20-%20Pensamento%20Computacional%20(Pre%20e%20Pos-Teste).pdf)
+
+[Gabarito Pré-Teste](https://github.com/isabellelimasouza/CTProgER/blob/main/Gabarito%201%20-%20Pre-Teste.pdf)
+
+[Gabarito Pós-Teste](https://github.com/isabellelimasouza/CTProgER/blob/main/Gabarito%201%20-%20Pos-Teste.pdf)
+
+[Questionário de Perfil do Aluno](https://github.com/isabellelimasouza/CTProgER/blob/main/Question%C3%A1rio%201%20-%20Perfil%20Alunos%20-%20Reduzido.pdf)
+
