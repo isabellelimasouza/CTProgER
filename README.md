@@ -34,3 +34,14 @@
 
 
 ### Documentos do Comitê de Ética
+
+### Validação das Instâncias - Método Delphi
+
+#### 1ª Rodada
+##### Planos de Aula - Material do Professor
+##### Roteiros de Aula - Material do Aluno
+
+#### 2ª Rodada
+##### Planos de Aula - Material do Professor
+##### Roteiros de Aula - Material do Aluno
+
