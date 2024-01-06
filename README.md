@@ -63,6 +63,16 @@
 
 [Roteiros de Aula - Material do Aluno ](https://github.com/isabellelimasouza/CTProgER/blob/main/Roteiros%20de%20Aulas_Finais.pdf)
 
+
+### Materiais da Intervenção - Turma de Controle
+
+[Aula 1](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2001.pdf)
+
+[Aula 2](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2002.pdf)
+
+[Aula 3](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2003.pdf)
+
+
 ### Data Collection Tools
 
 [Teste de Pensamento Computacional](https://github.com/isabellelimasouza/CTProgER/blob/main/Question%C3%A1rio%202%20-%20Pensamento%20Computacional%20(Pre%20e%20Pos-Teste).pdf)
