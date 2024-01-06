@@ -1,7 +1,7 @@
 # ----------------------------- IN ENGLISH -----------------------------
-## Documents submitted to the Coordination of the Postgraduate in Computer Science at the Federal University of Campina Grande. These documents are part of the necessary requirements to obtain the PhD's degree in Computer Science.
+## Documents submitted to the Coordination of the Postgraduate Program in Computer Science at the Federal University of Campina Grande are integral to the prerequisites for acquiring a Ph.D. in Computer Science.
 
-**Thesis Title:** An Educational Process for Teaching Programming with Educational Robotics in High School
+**Thesis Title:** An Educational Process for Teaching-Learning Programming with Educational Robotics in High School
 
 **Author:** Isabelle Maria Lima de Souza
 
@@ -15,6 +15,58 @@
 
 
 ### Ethics Committee Documents
+
+[Project submitted to the committee](https://github.com/isabellelimasouza/CTProgER/blob/main/Definicao_Projeto_Isabelle_Cronograma_Anonimo.pdf)
+
+[Term of Commitment to disclose results](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo%20de%20Compromisso%20de%20divulga%C3%A7%C3%A3o%20dos%20resultados_Isabelle.pdf)
+
+[Term of Consent from the School Management](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo_Anuencia_Direcao.pdf)
+
+[Consent Form - Minors](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo_Assentimento_Menor.pdf)
+
+[Informed Free Term - Over Age](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo_de_consentimento_livre_esclarecido.pdf)
+
+
+### Validation of Instances - Delphi Method
+
+### 1st Round
+[Lesson Plans - Teacher Material](https://github.com/isabellelimasouza/CTProgER/commit/8248a6feff69d4055598739b5d6e2a3899070ea2)
+
+[Class Scripts - Student Material](https://github.com/isabellelimasouza/CTProgER/commit/df3b1f5d337a9669b6d52ea489771583d13b0139)
+
+### 2nd Round
+[Lesson Plans - Teacher Material](https://github.com/isabellelimasouza/CTProgER/commit/5c538db31c96a85391f3344596598eb0cd276aa0)
+
+[Class Scripts - Student Material](https://github.com/isabellelimasouza/CTProgER/blob/main/Roteiros%20de%20Aulas_2%C2%AA_Rodada.pdf)
+
+### Instances Used in the Intervention
+[Lesson Plans - Teacher Material](https://github.com/isabellelimasouza/CTProgER/commit/5c538db31c96a85391f3344596598eb0cd276aa0)
+
+[Class Scripts - Student Material](https://github.com/isabellelimasouza/CTProgER/blob/main/Roteiros%20de%20Aulas_Finais.pdf)
+
+
+### Intervention Materials - Control Class
+
+[Lesson 1 - Slide](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2001.pdf)
+
+[Lesson 1 - Vídeo: Entrevista com Sophia](https://www.youtube.com/watch?v=M3_5B5JjlvA&t=34s)
+
+[Lesson 1 - Vídeo: O Bolo do Chaves e Quico](https://github.com/isabellelimasouza/CTProgER/blob/main/Chaves.mp4)
+
+[Lesson 2](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2002.pdf)
+
+[Lesson 3](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2003.pdf)
+
+
+### Data Collection Tools
+
+[Computational Thinking Test](https://github.com/isabellelimasouza/CTProgER/blob/main/Question%C3%A1rio%202%20-%20Pensamento%20Computacional%20(Pre%20e%20Pos-Teste).pdf)
+
+[Pre-Test Answer Key](https://github.com/isabellelimasouza/CTProgER/blob/main/Gabarito%201%20-%20Pre-Teste.pdf)
+
+[Post-Test Answer Key](https://github.com/isabellelimasouza/CTProgER/blob/main/Gabarito%201%20-%20Pos-Teste.pdf)
+
+[Student Profile Questionnaire](https://github.com/isabellelimasouza/CTProgER/blob/main/Question%C3%A1rio%201%20-%20Perfil%20Alunos%20-%20Reduzido.pdf)
 
 
 # ----------------------------- EM PORTUGUÊS -----------------------------
@@ -70,14 +122,14 @@
 
 [Aula 1 - Vídeo: Entrevista com Sophia](https://www.youtube.com/watch?v=M3_5B5JjlvA&t=34s)
 
-[Aula 1 - Vídeo: O Bolo do Chaves e Quico](Chaves.mp4)
+[Aula 1 - Vídeo: O Bolo do Chaves e Quico](https://github.com/isabellelimasouza/CTProgER/blob/main/Chaves.mp4)
 
 [Aula 2](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2002.pdf)
 
 [Aula 3](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2003.pdf)
 
 
-### Data Collection Tools
+### Ferramentas de Coleta de Dados
 
 [Teste de Pensamento Computacional](https://github.com/isabellelimasouza/CTProgER/blob/main/Question%C3%A1rio%202%20-%20Pensamento%20Computacional%20(Pre%20e%20Pos-Teste).pdf)
 
