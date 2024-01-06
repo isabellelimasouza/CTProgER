@@ -66,7 +66,11 @@
 
 ### Materiais da Intervenção - Turma de Controle
 
-[Aula 1](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2001.pdf)
+[Aula 1 - Slide](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2001.pdf)
+
+[Aula 1 - Vídeo: Entrevista com Sophia](https://www.youtube.com/watch?v=M3_5B5JjlvA&t=34s)
+
+[Aula 1 - Vídeo: O Bolo do Chaves e Quico](Chaves.mp4)
 
 [Aula 2](https://github.com/isabellelimasouza/CTProgER/blob/main/Aula%2002.pdf)
 
