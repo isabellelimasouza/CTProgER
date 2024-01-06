@@ -20,7 +20,7 @@
 # ----------------------------- EM PORTUGUÊS -----------------------------
 ## Documentos do trabalho de Dissertação submetida à Coordenação do Curso de Pós-Graduação em Ciência da Computação da Universidade Federal de Campina Grande - Campus I como parte dos requisitos necessários para obtenção do grau de Doutora em Ciência da Computação
 
-**Tese:** An Educational Process for Teaching Programming with Educational Robotics in High School
+**Tese:** Um Processo Educacional para Programação Ensino-Aprendizagem com Robótica Educacional no Ensino Médiohool
 
 **Aluna:** Isabelle Maria Lima de Souza
 
@@ -46,4 +46,9 @@
 [Planos de Aula - Material do Professor ](https://github.com/isabellelimasouza/CTProgER/commit/5c538db31c96a85391f3344596598eb0cd276aa0)
 
 [Roteiros de Aula - Material do Aluno ](https://github.com/isabellelimasouza/CTProgER/blob/main/Roteiros%20de%20Aulas_2%C2%AA_Rodada.pdf)
+
+### Instâncias Utilizadas na Intervenção
+[Planos de Aula - Material do Professor ](https://github.com/isabellelimasouza/CTProgER/commit/5c538db31c96a85391f3344596598eb0cd276aa0)
+
+[Roteiros de Aula - Material do Aluno ](https://github.com/isabellelimasouza/CTProgER/blob/main/Roteiros%20de%20Aulas_Finais.pdf)
 
