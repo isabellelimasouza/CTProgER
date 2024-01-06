@@ -36,9 +36,13 @@
 ### Documentos do Comitê de Ética
 
 [Projeto submetido ao comitê](https://github.com/isabellelimasouza/CTProgER/blob/main/Definicao_Projeto_Isabelle_Cronograma_Anonimo.pdf)
+
 [Termo de Compromisso de divulgação dos resultados](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo%20de%20Compromisso%20de%20divulga%C3%A7%C3%A3o%20dos%20resultados_Isabelle.pdf)
+
 [Termo de Anuência da Direção Escolar](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo_Anuencia_Direcao.pdf)
+
 [Termo de Assentimento - Menor de Idade](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo_Assentimento_Menor.pdf)
+
 [Termo de Livre Esclarecido - Maior de Idade](https://github.com/isabellelimasouza/CTProgER/blob/main/Termo_de_consentimento_livre_esclarecido.pdf)
 
 
