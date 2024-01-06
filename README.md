@@ -38,7 +38,8 @@
 ### Validação das Instâncias - Método Delphi
 
 #### 1ª Rodada
-Planos de Aula - Material do Professor (Planos_Aula_1ª_Rodada.pdf)
+Planos de Aula - Material do Professor ([Planos_Aula_1ª_Rodada.pdf](https://github.com/isabellelimasouza/CTProgER/commit/8248a6feff69d4055598739b5d6e2a3899070ea2))
+
 Roteiros de Aula - Material do Aluno
 
 #### 2ª Rodada
