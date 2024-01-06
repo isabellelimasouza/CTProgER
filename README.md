@@ -38,8 +38,8 @@
 ### Validação das Instâncias - Método Delphi
 
 #### 1ª Rodada
-##### Planos de Aula - Material do Professor
-##### Roteiros de Aula - Material do Aluno
+Planos de Aula - Material do Professor (Planos_Aula_1ª_Rodada.pdf)
+Roteiros de Aula - Material do Aluno
 
 #### 2ª Rodada
 ##### Planos de Aula - Material do Professor
