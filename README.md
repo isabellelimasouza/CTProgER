@@ -76,9 +76,9 @@
 
 **Aluna:** Isabelle Maria Lima de Souza
 
-**Orientadora:** Wilkerson de Lucena Andrade
+**Orientador:** Wilkerson de Lucena Andrade
 
-**Co-Orientador:** Lívia Maria Rodrigues Sampaio Campos 
+**Co-Orientadora:** Lívia Maria Rodrigues Sampaio Campos 
 
 **Área de Concentração:** Ciência da Computação
 
